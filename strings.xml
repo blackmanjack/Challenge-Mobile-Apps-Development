@@ -1,0 +1,11 @@
+<resources>
+    <string name="large_text"></string>
+    <string name="app_name">Chef House</string>
+    <string name="food">Spaghetti</string>
+    <string name="desfood">Spaghetti with bolognese sauce</string>
+    <string name="pricefood">Rp 15.000</string>
+    <string name="beverage">Milkshake Strawberry</string>
+    <string name="desbev">A fresh milkshake with whipping cream</string>
+    <string name="pricebev">Rp 10.000</string>
+    <string name="action_settings">Settings</string>
+</resources>
